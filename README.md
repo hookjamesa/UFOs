@@ -8,7 +8,7 @@ This webpage is designed to allow for simple interactive searching of data to al
 
 To perform a data search, lower case values for date, city, state, country, and shape of UFO can be entered into the search bar below. This is located on the bottom left of the webpage next to data tables as shown below:
 
-[Table Search](images/filterbox.png)
+[Table Search](/images/filterbox.png)
 
 ## Summary
 
